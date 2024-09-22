@@ -1,4 +1,4 @@
-'use strickt';
+'use strict';
 
 function checkForSpam(message) {
   const normalizedMessage = message.toLowerCase();
